@@ -2,9 +2,9 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 r"""
-==================================================
+================================================
 B615: Test for unsafe Hugging Face Hub downloads
-==================================================
+================================================
 
 This plugin checks for unsafe downloads from Hugging Face Hub without proper
 integrity verification. Downloading models, datasets, or files without
